@@ -1,6 +1,8 @@
+import React from 'react'
+
 export default function Home() {
   return (
-    <main className="min-h-screen">
-    </main>
+    <div className="min-h-screen w-full">
+    </div>
   )
 }
